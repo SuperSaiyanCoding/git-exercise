@@ -1,4 +1,4 @@
 # git-exercise
 Ryan Dubs
 
-Testing it out 
+Trying not to use VSC code to help; trying manually with git. Failed
