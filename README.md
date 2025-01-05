@@ -1,6 +1,6 @@
 # git-exercise
 AltCademy git-exercise
-Testing this file. Help
+Lamelo Ball
 Testing this out.
 <html> 
 
