@@ -1,3 +1,7 @@
 # git-exercise
-AltCademy git-exercise
-Testing
+Testing; trying without VSC help
+
+confused
+
+help
+
