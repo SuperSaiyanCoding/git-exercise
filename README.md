@@ -1,3 +1,3 @@
 # git-exercise
 AltCademy git-exercise
-Testing
+Testing the later step (created html, css, js)
