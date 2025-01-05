@@ -1,9 +1,4 @@
 # git-exercise
-AltCademy git-exercise
-Lamelo Ball
-Testing this out.
-<html> 
+Ryan Dubs
 
-Git trial 
-
-</html>
+Testing it out 
